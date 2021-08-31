@@ -3,6 +3,7 @@
 - 🕵️‍♂️ I'm interested in deep learning
 - 📫 You to reach me @ [LinkedIn](https://www.linkedin.com/in/ferasoughali/) or [Twitter](https://twitter.com/Feras_Oughali)  
 - 💬 Ask me about anything  
+- 💭 Check out my [blog](https://feras-oughali.github.io/blog/)!  
 
 [//]: # (This is a comment.)  
 [//]: # (- 🔭 I’m currently working on ...  )
